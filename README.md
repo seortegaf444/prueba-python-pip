@@ -6,3 +6,10 @@ Para correr el juego debes seguir las siguientes instrucciones en la terminal:
 cd game
 python3 game.py
 ```
+
+Para corre el graficador
+
+´´´sh
+cd charts
+python3 main.py
+´´´
